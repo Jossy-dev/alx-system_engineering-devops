@@ -19,3 +19,4 @@ Task 16 is a script that displays all the lines that contain a word and 3 lines 
 Task 17 is a script that hides all the lines that contain a word
 Task 18 displays all lines of a  file starting with a letter
 Task 19 replaces letter A and c with Z and E respectively
+Task 20 deletes the letters c and C from input 
