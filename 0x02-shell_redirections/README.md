@@ -8,3 +8,4 @@ Task 5 is a script that displays the first 10 lines of a file
 Task 6 is a script that displays the third line of a file
 Task 7 is a script that creates a file
 Task 8 is a script that contains the result of a command
+Task 8 is a script that duplicates the last line of a file
