@@ -23,4 +23,5 @@ Task 20 deletes the letters c and C from input
 Task 21 reverses its input
 task 22 it displays all users and their home directories in a sorted order
 Task 23 is a script that displays all empty files and directories 
-Task 24 is a script that list all files with the extension '.gif' 
+Task 24 is a script that list all files with the extension '.gif'
+Task 25 is a script that decodes acrostic 
