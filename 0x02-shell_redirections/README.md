@@ -6,4 +6,5 @@ Task 3 is a script that displays 2 files
 Task 4 is a script that displays the last 10 lines of a file 
 Task 5 is a script that displays the first 10 lines of a file
 Task 6 is a script that displays the third line of a file
-Task 6 is a script that creates a file
+Task 7 is a script that creates a file
+Task 8 is a script that shows the result of a command
