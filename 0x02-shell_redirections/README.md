@@ -15,3 +15,4 @@ Task 12 is a script that prints the 10 newest files
 Task 13 is a script that sorts and displays only unique words
 Task 14 is a script that displays all lines with a phrase
 Task 15 is a script that count all the lines with a word
+TAask 16 is a script that displays all the lines that contain a word and 3 lines after
