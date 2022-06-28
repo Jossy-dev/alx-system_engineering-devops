@@ -17,3 +17,4 @@ Task 14 is a script that displays all lines with a phrase
 Task 15 is a script that count all the lines with a word
 Task 16 is a script that displays all the lines that contain a word and 3 lines after
 Task 17 is a script that hides all the lines that contain a word
+Task 18 displays all lines of a  file starting with a letter
