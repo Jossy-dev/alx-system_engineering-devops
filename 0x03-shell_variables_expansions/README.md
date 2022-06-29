@@ -8,4 +8,5 @@ Task 5 is a script that lists all local variables and environment variables, and
 Task 6 is a script that creates a variable 'BEST' with the value 'SCHOOL'
 Task 7 is a script that creates a new global variable
 Task 8 is a script that prints the result of the addition of an integer and a variable
-Task 9 is a script that prints the result of a division   
+Task 9 is a script that prints the result of a division 
+Task 10 is a script that displays the result of BREATH to the power LOVE   
