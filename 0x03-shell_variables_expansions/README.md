@@ -7,4 +7,5 @@ Task 4 is a script that list all environment variables
 Task 5 is a script that lists all local variables and environment variables, and functions. 
 Task 6 is a script that creates a variable 'BEST' with the value 'SCHOOL'
 Task 7 is a script that creates a new global variable
-Task 8 is a script that prints the result of the addition of an integer and a variable  
+Task 8 is a script that prints the result of the addition of an integer and a variable
+Task 9 is a script that prints the result of a division   
