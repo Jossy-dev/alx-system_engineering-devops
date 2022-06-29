@@ -11,4 +11,5 @@ Task 8 is a script that prints the result of the addition of an integer and a va
 Task 9 is a script that prints the result of a division 
 Task 10 is a script that displays the result of BREATH to the power LOVE
 Task 11 is a script that converts a number from base 2 to base 10
-Task 12 is a script that prints all possible combinations of two letters, except oo    
+Task 12 is a script that prints all possible combinations of two letters, except oo 
+Task 13 is a script that prints a number with two decimal places   
